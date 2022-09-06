@@ -1,0 +1,17 @@
+
+h2, a:link, a:visited, a:hover, a:active {
+color: blue; 
+}
+.hatter{
+    background-color: #F0F8FF;
+}.tablazat{
+    width: 400px;
+
+}
+
+.d {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+body{background-color: #DC143C;}
