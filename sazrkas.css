@@ -25,12 +25,23 @@ height: 153px;}
     height: 153px;
     border:1px;
 }
-.tablazat{
+.tablazat2{
     width: 500px;
     text-align: center;
     margin: 0 auto;
     border:0;
+    border-spacing: 6px;
 }
 .oszlop1{
     width: 240px;
+    text-align: right;
+    
+}
+.oszlop2{
+    text-align: left;
+}
+.alcimek{
+    color: #f0F8FF;
+    background-color: #DC143C;
+    height: 10px;
 }
